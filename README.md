@@ -1,6 +1,6 @@
 <!--Project Name-->
 <h1>MP3 Music Player App</h1>
-
+The Music Player application built using Java technologies. It offers a seamless and enjoyable music listening experience with a variety of functionalities tailored to enhance user interaction and control.
 <!--Introduction-->
 <h2>Introduction</h2>
 <p>
