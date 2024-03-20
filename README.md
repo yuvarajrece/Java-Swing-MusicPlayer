@@ -35,5 +35,5 @@ The Music Player application built using Java technologies. It offers a seamless
 <!--Screenshots (GIFs/PNGs)-->
 <h2>Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Music Player App Screenshot">
+![Screenshot 2024-03-20 141439](https://github.com/yuvarajrece/MusicPlayer/assets/131381006/896249ec-e58a-499f-a432-09d294460555)
 </p>
